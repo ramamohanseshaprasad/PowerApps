@@ -15,5 +15,30 @@
     "dependencies": {},
     "dependents": [],
     "id": "4bb3a34a-f62f-4833-8a35-9eecbc547e2e"
+  },
+  "cc156c0e-3b75-41b1-8f7b-d906aefb559e": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1578/1.0.1578.2813/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://eu001-sp.shell.com/sites/AAFAA5347": {
+        "dataSources": {
+          "Power Platform Whitelisted Connectors": {
+            "tableName": "16dea2a6-34ae-4cc4-bfa6-db92385f2b49"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Power Platform Whitelisted Connectors"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "cc156c0e-3b75-41b1-8f7b-d906aefb559e"
   }
 }
