@@ -1,0 +1,16 @@
+Screen1 As screen:
+    Fill: =
+
+    Label1 As label:
+        Text: =
+        X: =153
+        Y: =219
+        ZIndex: =1
+
+    Button1 As button:
+        OnSelect: =
+        Text: ="Button"
+        X: =153
+        Y: =374
+        ZIndex: =2
+

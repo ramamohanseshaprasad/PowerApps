@@ -1,0 +1,19 @@
+{
+  "4bb3a34a-f62f-4833-8a35-9eecbc547e2e": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "GitHub",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1549/1.0.1549.2680/github/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_github"
+    },
+    "datasets": {},
+    "dataSources": [
+      "GitHub"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "4bb3a34a-f62f-4833-8a35-9eecbc547e2e"
+  }
+}
